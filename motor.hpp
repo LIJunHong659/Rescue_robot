@@ -6,6 +6,9 @@
 #define PIN_Left_Motor_InA 26
 #define PIN_Left_Motor_InB 27
 
+#define PIN_Right_Motor_InA 28
+#define PIN_Right_Motor_InB 29
+
 #define Forward     1
 #define Backward    -1
 #define Stop        0
